@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pranami_sampradaya/static/css/main.8eb0c88c.css",
+    "main.js": "/pranami_sampradaya/static/js/main.790820b3.js",
+    "static/js/787.f25f0d4f.chunk.js": "/pranami_sampradaya/static/js/787.f25f0d4f.chunk.js",
+    "static/media/back.jpg": "/pranami_sampradaya/static/media/back.db05848b177da2622914.jpg",
+    "static/media/shreekrishna.jpg": "/pranami_sampradaya/static/media/shreekrishna.d43635ce7ec18dc5232d.jpg",
+    "static/media/slick.svg": "/pranami_sampradaya/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/pranami_sampradaya/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/pranami_sampradaya/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/pranami_sampradaya/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/pranami_sampradaya/index.html",
+    "main.8eb0c88c.css.map": "/pranami_sampradaya/static/css/main.8eb0c88c.css.map",
+    "main.790820b3.js.map": "/pranami_sampradaya/static/js/main.790820b3.js.map",
+    "787.f25f0d4f.chunk.js.map": "/pranami_sampradaya/static/js/787.f25f0d4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb0c88c.css",
+    "static/js/main.790820b3.js"
+  ]
+}
