@@ -1,0 +1,20 @@
+.HomeContainer{
+    min-height: calc(100vh - 70px);
+    padding:20px;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+
+.HomeContainer::before{
+    background: url("/public/images/back.jpg") center center / cover no-repeat fixed;
+    content: "";
+    top:0;
+    position: absolute;
+    right: 0;
+    left:0;
+    bottom: 0;
+    z-index: -1;
+}

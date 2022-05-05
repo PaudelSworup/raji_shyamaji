@@ -1,0 +1,9 @@
+.about{
+    margin: 10px auto;
+    padding: 10px;
+    background-color: bisque;
+}
+
+.about .p{
+    text-align: justify;  
+}
